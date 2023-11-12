@@ -1,2 +1,2 @@
 # COB-python-development
-CodesOnBytes oython internship codes repository
+CodesOnBytes python internship codes repository
